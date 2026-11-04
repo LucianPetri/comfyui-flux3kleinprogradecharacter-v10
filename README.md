@@ -1,6 +1,6 @@
 # flux3KleinProGradeCharacter_v10
 ComfyUI workflow Dockerized via [comfyui-wizard](https://comfy.getrunpod.io).
-Submission: https://comfy.getrunpod.io/dashboard/submissions/kd763tgf3zdyqxbrwnb6898wr58hk837
+Submission: https://comfy.getrunpod.io/dashboard/submissions/kd70wztnf2ds1y3c9q210y8g818hj9jf
 ## Build it yourself
 ```bash
 docker buildx build -t my-comfy-workflow .
